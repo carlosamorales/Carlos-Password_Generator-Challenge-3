@@ -25,24 +25,23 @@ SO THAT I can create a strong password that provides greater security
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This project is a secure password generator tool designed to provide users with a convenient way to create strong and customized passwords. By simply clicking a button, users are prompted to specify criteria for their new password, including length, and the inclusion of lowercase, uppercase, numeric, and special characters. The tool validates user input to ensure at least one character type is selected. Once all prompts are answered, the tool generates a password that meets the specified criteria.
 
-What:
-The project aims to create a secure password generator tool. Users, upon clicking a button, will be presented with a series of prompts allowing them to customize the criteria for their new password. These criteria include password length, inclusion of lowercase, uppercase, numeric, and special characters. The tool will validate user input to ensure at least one character type is selected. Once all prompts are answered, the tool generates a password meeting the specified criteria.
+### What:
+- The project aims to create a secure password generator tool. Users, upon clicking a button, will be presented with a series of prompts allowing them to customize the criteria for their new password. These criteria include password length, inclusion of lowercase, uppercase, numeric, and special characters. The tool will validate user input to ensure at least one character type is selected. Once all prompts are answered, the tool generates a password meeting the specified criteria.
 
-Why:
-The primary goal is to provide users with a convenient and secure way to generate strong passwords tailored to their preferences. In today's digital age, where online security is crucial, having a tool that enables users to easily create complex passwords can contribute to better protection against unauthorized access and potential security threats.
+### Why:
+- The primary goal is to provide users with a convenient and secure way to generate strong passwords tailored to their preferences. In today's digital age, where online security is crucial, having a tool that enables users to easily create complex passwords can contribute to better protection against unauthorized access and potential security threats.
 
-How:
-
-Users click a button to initiate the password generation process.
-A series of prompts guide users to customize their password criteria.
-Users select the desired password length within the range of 8 to 128 characters.
-Users confirm whether to include lowercase, uppercase, numeric, and/or special characters in the password.
-User input is validated to ensure at least one character type is selected.
-Once all prompts are answered and validated, the tool generates a password that adheres to the specified criteria.
-The generated password is either displayed in an alert or written to the page, providing users easy access to their new, secure password.
-
+### How:
+- Users click a button to initiate the password generation process.
+- A series of prompts guide users to customize their password criteria.
+- Users select the desired password length within the range of 8 to 128 characters.
+- Users confirm whether to include lowercase, uppercase, numeric, and/or special characters in the password.
+- User input is validated to ensure at least one character type is selected.
+- Once all prompts are answered and validated, the tool generates a password that adheres to the specified criteria.
+- The generated password is either displayed in an alert or written to the page, providing users easy access to their new, secure password.
+  
 ## Installation
 **Link to the page:** [Challenge Week03 Carlos-Password-generator](https://carlosamorales.github.io/Carlos-Password_Generator-Challenge-3/)
 
