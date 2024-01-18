@@ -34,7 +34,7 @@ Provide a short description explaining the what, why, and how of your project. U
 - I learned the difference between non semantic html and semantic html. Which one use for a more professional webpage structure
 
 ## Installation
-**Link to the page:** [Challenge Week01 Live Page](https://carlosamorales.github.io/Challenges/)
+**Link to the page:** [Challenge Week03 Carlos-Password-generator](https://carlosamorales.github.io/Carlos-Password_Generator-Challenge-3/)
 
 
 ## Usage
